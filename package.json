@@ -1,6 +1,6 @@
 {
   "name": "@joeyfa/node-hello",
-  "version": "1.0.0-1",
+  "version": "1.0.3",
   "description": "this is sample code.",
   "main": "index.js",
   "scripts": {
